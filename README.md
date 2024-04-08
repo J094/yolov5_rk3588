@@ -1,4 +1,4 @@
-# DET_RK3588
+# YOLOV5_RK3588
 
 ```bash
 # build project
